@@ -9,7 +9,7 @@ Para comenzar, asegúrate de tener Node.js y npm instalados en tu máquina. Lueg
 1. **Clonar el Repositorio:**
     
     ```bash
-    git clone <https://github.com/tu-usuario/tu-repositorio.git>
+    git clone https://github.com/JosephYM07/Display-Location-on-Google-Maps-or-OpenStreetMap.git
     cd tu-repositorio
     
     ```
