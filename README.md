@@ -78,6 +78,6 @@ Esto abrirá la aplicación en tu navegador web predeterminado. Asegúrate de pr
 ## Estructura del Proyecto
 
 - `src/app/`: Contiene los componentes y servicios principales de la aplicación.
-    - `home/`: Componente principal donde se encuentra la lógica de la página principal (`home.page.ts`, `home.page.html`, `home.page.scss`).
+    - `home/`: Componente principal donde se encuentra la lógica de la página principal. (`home.page.ts`, `home.page.html`, `home.page.scss`).
 
 
